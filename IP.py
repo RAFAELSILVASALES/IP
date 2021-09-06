@@ -107,7 +107,7 @@ Label1.configure(disabledforeground="#a3a3a3")
 Label1.configure(
     font="-family {Segoe UI Semibold} -size 15 -weight bold")
 Label1.configure(foreground="#000000")
-Label1.configure(text='''Nome da Maquina:''')
+Label1.configure(text='''Nome da Máquina:''')
 
 Label1_1 = tk.Label(tela)
 Label1_1.place(relx=0.10, rely=0.353, height=41, width=175)
