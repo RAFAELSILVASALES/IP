@@ -1,9 +1,12 @@
 <h1 align="center">Captura de IP</h1>
 
-<p align="center">  🚀  Programa para descobrir o Nome da Máquina , IP interno , IP Externo.  </p>
+<p align="center">  🚀  
+Programa para descobrir o nome da máquina, IP interno, IP externo.
+ </p>
 
 
-<p> Ferramentas usadas: Tkinter para a criação da Interface .  Biblioteca requests e socket, além da API do ipify. Para descobrir o IP interno e externo da máquina .
+<p> Ferramentas usadas: Tkinter para a criação da interface biblioteca requests e socket, além da API do ipify para descobrir o IP interno e externo .
+
  <br>pip install sockets: https://pypi.org/project/sockets/ </br><p>
 
 <div>
