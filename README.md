@@ -1,4 +1,4 @@
-<h1 align="center">Captura de IP</h1>
+<h1 align="center">Captura de IP <img src="https://img.shields.io/github/license/RAFAELSILVASALES/IP"></h1>
 
 <p align="center">  🚀  
 Programa para descobrir o nome da máquina, IP interno, IP externo.
